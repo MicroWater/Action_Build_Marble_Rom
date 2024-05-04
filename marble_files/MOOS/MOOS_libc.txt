@@ -1,0 +1,6 @@
+/odm/lib/libvsim.so
+/odm/lib/vendor.xiaomi.hardware.vsimapp@1.0.so
+/system_ext/lib64/libvsim_auth.so
+/system_ext/lib64/libvsim_auth.so
+/vendor/lib64/vendor.xiaomi.hardware.vsimapp-V1-ndk_platform.so
+/vendor/lib64/vendor.xiaomi.hardware.vsimapp-V1-ndk_platform.so

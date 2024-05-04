@@ -1,0 +1,16 @@
+/odm/etc/audio/bottom_spk.wav
+/odm/etc/audio/bottom_spk_hp.wav
+/odm/etc/audio/rcv.wav
+/odm/etc/audio/rcv_hp.wav
+/odm/etc/audio/rcv_seal.wav
+/odm/etc/audio/RES1K.wav
+/odm/etc/audio/silent-3sec.wav
+/odm/etc/audio/spk.wav
+/odm/etc/audio/test.wav
+/odm/etc/audio/top_spk.wav
+/odm/etc/audio/top_spk_hp.wav
+/product/app/MiGameService_*
+/product/data-app/Magisk
+/system/system/bin/puresky
+/system/system/build.prop.bak
+/vendor/build.prop.bak
